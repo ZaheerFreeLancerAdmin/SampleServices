@@ -37,7 +37,7 @@ public class getService {
   @Produces(MediaType.TEXT_HTML)
   public String sayHtmlHello() {
     return "<html> " + "<title>" + "Hello Jersey" + "</title>"
-        + "<body><h1>" + "Hello Sweety" + "</body></h1>" + "</html> ";
+        + "<body><h1>" + "Hello Sanjan" + "</body></h1>" + "</html> ";
   }
 
 }
