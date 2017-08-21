@@ -21,10 +21,10 @@
 		</dependency>
 	</dependencies>
 	
-	<!-- <profiles>
+	 <profiles>
 	<profile>
-	<id>openshift</id> -->
-  <build>
+	<id>openshift</id>
+		<build>
     <sourceDirectory>src</sourceDirectory>
     <!-- <finalName>SampleServices</finalName>  -->
     <plugins>
